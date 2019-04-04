@@ -1,4 +1,4 @@
-#include <iostrame>
+#include <iostream.h>
 
 struct Node{
 

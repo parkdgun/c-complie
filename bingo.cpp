@@ -1,5 +1,5 @@
-#include <iostrame>
-#include <ctime>
+#include <iostream.h>
+#include <time.h>
 
 using namespace std;
 

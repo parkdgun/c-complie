@@ -1,5 +1,5 @@
-#include <iostream>
-#include <ctime>
+#include <iostream.h>
+#include <time.h>
 #include <conio.h>
 
 using namespace std;
